@@ -32,3 +32,21 @@ Let's save and run the query.
 
 So here we can see the material for a particular vendor in USA which has multiple items , their credit amount is mentioned 
 and the total can be seen at last. Comparision of materials can be seen in the graph.
+
+Moreover , now we are going to have a selection made for the key figure for particular year 2016.
+
+![image](https://user-images.githubusercontent.com/94862735/204483517-e0f399e9-878d-443d-92be-3632d25f8325.png)
+
+Now let's create a formula field too that would contain the difference between credit amount all and credit amount 2016.
+
+![image](https://user-images.githubusercontent.com/94862735/204484054-8ddba94f-6757-4ac3-a2ee-c211eb9374c1.png)
+
+Both the selection and formula have keyfigure credit amount reference
+
+Let's fire up the report on web now.
+
+![image](https://user-images.githubusercontent.com/94862735/204485430-2092ca28-067f-4b1b-88cc-5c7b308802e5.png)
+
+It works !.
+
+
